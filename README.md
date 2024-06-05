@@ -3,11 +3,17 @@ Pizza Sales Analysis using SQL and Power BI
 
 Problem Statement
 KPI’s Requirement – We need to analyse key indicators for our pizza sales data to gain insight into our business performance. Specifically, we want to calculate the following metrics:
+
 •	Total Revenue - The sum of the total price of the pizza orders.
+
 •	Average order value – The average amount spent per order, calculated by dividing the total revenue by the total number of orders.
+
 •	Total Pizza sold – The sum of quantities of pizza sold.
+
 •	Total Orders – the total number of orders placed.
+
 •	Average pizza per order – The average number of pizzas sold per order. Calculated by dividing the total number of pizzas sold by the total number of orders.
+
 Chart Requirements
 We would like to visualize various aspects of our pizza sales data to gain insights and understand key trends. We have identified the following requirements for creating charts.
 1.	Daily Trend for total orders: Created a bar chart that displays the daily trend of total orders over a specified period. This chart will help us identify any patterns or fluctuations in order volume daily.
