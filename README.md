@@ -1,6 +1,8 @@
 # Pizza-Sales-Analysis
 Pizza Sales Analysis using SQL and Power BI
 
+I have analyzed the Problem statment using Power BI and also from SQL just to verify the results. You can download the video file I've attaced to get a glimpse of the interactive dashboard I built.
+
 Problem Statement
 KPI’s Requirement – We need to analyse key indicators for our pizza sales data to gain insight into our business performance. Specifically, we want to calculate the following metrics:
 
